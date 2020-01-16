@@ -2,7 +2,7 @@
 
 
 # FEATURES
-*
+* EDIT `documentation/logo.png` for a custom logo `1024x256` or use the `/documentation/logo.psd` template file
 *
 *
 
